@@ -229,6 +229,7 @@
 										<li>Java / MyBatis / MySQL / Apache Tomcat</li>
 										<li>HTML / CSS / JavaScript / JSP / jQuery / Ajax</li>
 										<li>기획 / 디자인 / 개발 참여도 100%</li>
+										<li><a href="${pageContext.request.contextPath}/resources/data/1BluaLundo.pdf">PDF 보기</a></li>
 									</ul>
 								</div>
 								
@@ -254,6 +255,7 @@
 										<li>Java / SQLite</li>
 										<li>기획 / 디자인 / 개발 참여도 100%</li>
 										<li>　</li>
+										<li><a href="${pageContext.request.contextPath}/resources/data/2Jansori.pdf">PDF 보기</a></li>
 									</ul>
 								</div>
 								
@@ -279,6 +281,7 @@
 										<li>Java / Spring / MySQL / Apache Tomcat</li>
 										<li>HTML / CSS / JavaScript / JSP / jQuery / Ajax</li>
 										<li>기획 / 디자인 / 개발 참여도 100%</li>
+										<li><a href="${pageContext.request.contextPath}/resources/data/3UnivishBowl.pdf">PDF 보기</a></li>
 									</ul>
 								</div>
 								
