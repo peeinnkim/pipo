@@ -233,7 +233,7 @@
 								</div>
 								
 								<div class="works-link">
-									<a>link</a>
+									<a href="https://github.com/jyh0131/project_hotel">View on gitHub</a>
 								</div>
 							</div>
 						</div>
@@ -258,7 +258,7 @@
 								</div>
 								
 								<div class="works-link">
-									<a>link</a>
+									<a href="https://github.com/peeinnkim/Jansori_Project/tree/master">View on gitHub</a>
 								</div>
 							</div>
 						</div>
@@ -283,7 +283,7 @@
 								</div>
 								
 								<div class="works-link">
-									<a>link</a>
+									<a href="https://github.com/peeinnkim/uni_bowl">View on gitHub</a>
 								</div>
 							</div>
 						</div>

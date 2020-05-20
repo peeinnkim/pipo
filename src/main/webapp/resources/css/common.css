@@ -796,6 +796,16 @@ div.footer > p {
 	div.works-info > ul > li {
 		font-size: 11px;
 	}
+	div.works-link > a {
+		font-size: 13px;
+	}
+	div.works-link:before {
+		right: -9px;
+	    bottom: -10px;
+	    z-index: 1;
+	    width: 30px;
+	    height: 30px;
+	}
 	
 }
 
